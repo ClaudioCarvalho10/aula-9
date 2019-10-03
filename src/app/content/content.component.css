@@ -16,7 +16,7 @@
 }
 
 .wrapper-content h1 {
-    font-size: 60pt;
+    font-size: 100pt;
     color: #fff;
     text-shadow: 2px 2px #333;
     font-family: 'Crete Round', serif !important;
@@ -24,7 +24,7 @@
 
 .tag {
     font-size: 2-pt;
-    color: rgb(44, 160, 189);
+    color: rgb(39, 226, 226);
     font-weight: bold;
 }
 
